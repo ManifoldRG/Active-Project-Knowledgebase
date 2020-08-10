@@ -11,6 +11,7 @@ This repo will contain the relevant reading material for the all active projects
 4. ML-for-Finance: Applying recent breakthroughs in Deep and Reinforcement Learning to problems in finance including equities prediction.
 5. DP-Medical-Images: Applying different algorithms from differential privacy to medical image problems, serving as a useful benchmark for the community. 
 6. Virtual-Green-Screen: Extending state of the art methods in background matting and other CV methods to build a better virtual greenscreen. 
+7. Satellite-ADC: Creating coordination among satellite clusters for scientific or industrial tasks using multi-agent learning methods.
 
 ## Organization overview
 
