@@ -8,3 +8,5 @@ Currently in survey stage, reviewing literature on multi-agent coordination meth
 - [Stigmergy (2009)](https://core.ac.uk/reader/16517627)
 - [ADC Literature Review (2018)](https://core.ac.uk/reader/157811751)
 - [NODES Mission (2016)](https://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=3439&context=smallsat)
+- [Autonomous Hubble Recovery (2005)](https://cs.brynmawr.edu/DevRob05/schedule/papers/rilee.pdf)
+- [Autonomic Robots for Space (2015)](https://core.ac.uk/reader/287020436)
