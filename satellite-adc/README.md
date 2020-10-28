@@ -14,3 +14,6 @@ Currently in active stage. Still reviewing literature on multi-agent coordinatio
 - [DS1 Autonomous Navigation System (1998)](https://trs.jpl.nasa.gov/bitstream/handle/2014/19040/98-0222.pdf?sequence=1)
 - [Simulated Annealing for Multi Sat Mission Planning (2013)](https://core.ac.uk/reader/206784559)
 - [Hybrid Learning for Multi Sat Task Planning (2011)](https://core.ac.uk/reader/82573465)
+- [Naval Research Lab Space Robotics Killer App (2019)](http://hq.wvrtc.com/icra2019/files/henshaw-presentation.pdf)
+- [NASA Starling1 Swarm Cubesat Mission (2018)](https://ntrs.nasa.gov/citations/20180007374)
+- [NASA Autonomous Systems Capability Overview (2018)](https://www.nasa.gov/sites/default/files/atoms/files/nac_tie_aug2018_tfong_tagged.pdf)
